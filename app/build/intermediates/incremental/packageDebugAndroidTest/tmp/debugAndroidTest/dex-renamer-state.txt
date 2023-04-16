@@ -1,0 +1,4 @@
+#Sun Apr 16 13:58:55 EDT 2023
+base.0=C\:\\Users\\jose\\Desktop\\Android\\android-advanced-starter-apps-master\\TiltSpot_start\\app\\build\\intermediates\\dex\\debugAndroidTest\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
